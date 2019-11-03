@@ -1,0 +1,26 @@
+
+Commands used while Creating Rails API project with PostgreSQL
+
+Steps:
+>brew install postgresql
+>rails new invoiced —api —no sprockets -d postgresql
+>cd invoiced
+>git init
+>git add .
+>git commit -m “First creating the project”
+>rails g model contacts
+>rails db:migrate
+>rails g controller v1/contacts
+>rails routes
+>rails db:migrate
+>rails s
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
