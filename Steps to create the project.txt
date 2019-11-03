@@ -17,6 +17,32 @@ Steps:
 >git commit -m "creating contact controller APIs"
 >bundle install --path vendor/bundle
 >bundle install
+>git commit -m "cadding gem devise"
+>rails g devise:install
+>rails g devise user
+>rails db:migrate
+>rails routes
+>git commit -m "setting devise gem"
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
 >
 >
 >
